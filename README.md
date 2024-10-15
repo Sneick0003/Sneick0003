@@ -29,4 +29,5 @@
   <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="laravel" />
   <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular" />
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="node.js" />
+  <img src="https://img.shields.io/badge/-React%20Native-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="react native" />
 </p>
